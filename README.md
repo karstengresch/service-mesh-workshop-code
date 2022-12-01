@@ -73,7 +73,6 @@ The parts in action here are:
 ### Istio Service Mesh
 * [What is Istio?](https://istio.io/docs/concepts/what-is-istio/)
 * [Red Hat Developer's Istio Free Book](https://developers.redhat.com/books/introducing-istio-service-mesh-microservices/)
-* [Free Hands-on with Istio](https://learn.openshift.com/servicemesh)
 ### Single Sign On
 * [Keycloak SSO](https://www.keycloak.org/)
 
